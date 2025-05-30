@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox, simpledialog
 from PIL import Image, ImageTk
 import matplotlib.pyplot as plt
 from collections import Counter
-
+#code
 class RestaurantDashboard:
     def __init__(self, root):
         self.root = root
