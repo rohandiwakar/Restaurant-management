@@ -1,4 +1,4 @@
-### 🍽️ Restaurant Management System (Python)
+#### 🍽️ Restaurant Management System (Python)
 
 A **desktop-based Restaurant Management System** built using **Python and Tkinter**.
 This project helps manage restaurant orders, billing, and basic operations through a simple and user-friendly graphical interface.
